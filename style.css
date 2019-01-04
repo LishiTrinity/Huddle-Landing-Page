@@ -1,6 +1,17 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
+@import url('https://fonts.google.com/specimen/Poppins');
+
 main {
     text-align: center;
+}
+h1 {
+    font-family: "Poppins" ;
+    font-weight: 400, 700;
+}
+
+button {
+    background-color: hsl(322, 100%, 66%);
+    color: white;
 }
